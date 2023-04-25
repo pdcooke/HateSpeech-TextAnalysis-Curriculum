@@ -1,6 +1,5 @@
 # HateSpeech-TextAnalysis-Instruction
-
-<p>Assignments Folder:</p>
-<pre>    Assignment_Coded Language
-    Assignment_Online Observation
-    Assignment_Visual Hate</pre>
+<h3>Assignments Folder:</h3>
+<p>Assignment_Coded Language</p>
+<p>Assignment_Online Observation</p>
+<p>Assignment_Visual Hate</p>
