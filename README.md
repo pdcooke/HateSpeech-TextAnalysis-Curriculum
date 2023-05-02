@@ -4,7 +4,7 @@
 <p>Many choices exist for the appropriate unit of analysis in psychological studies of hate speech (e.g., individuals who post, individuals who are targeted, etc.) but in its most essential form, online hate speech exists in the form of databases of text. Psychology students usually take course work on topics like experimental design and inferential statistics, but training on computer-aided analysis of text is less common. Thus, for students to understand the variable nature of online hate speech, instructional support for basic forms of text analysis will enable psychology faculty members to include real data and analytical examples in their course offerings. Thus, this repository contains the following materials:<p>
 <h4>Readings</h4>
 <p>Analyzing Hate Speech - A Brief Overview</p>
-<p>Selected Bibliography</p>
+<p>Selected Readings</p>
 <h4>Slide Decks</h4>
 <p>Introduction to Hate Speech Text Analysis<p>
 <p>Methods Overview</p>
